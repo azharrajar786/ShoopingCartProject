@@ -1,0 +1,1 @@
+This is a basic shopping cart project that we built for our Software Engineering assignment. The code is not original and the focus of this project is to get acquainted with using GitHub and Apache Ant, so the choice of code does not matter much.
