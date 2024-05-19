@@ -4,4 +4,4 @@ This project was created by:
 Abdul Hafeez Surahyo (2K23/CSE/6)
 Arslan Ali Otho (2K23/CSE/35)
 Azhar Rajar (2K23/CSE/41)
-Amjad Buledi (2K23/CSE/31)
+Amjad Ali Buledi (2K23/CSE/31)
